@@ -1,7 +1,11 @@
 ﻿# My-first-repo
 
-Fefzefzefze
+### Fefzefzefze
 
 fefezfze
 
-plouf
+**plouf**
+
+~~efefez~~
+~~This was mistaken text~~
+~~plaf~~
